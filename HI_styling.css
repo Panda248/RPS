@@ -1,0 +1,44 @@
+body	{
+	background-color: #5D5F6A;
+}
+h1	{
+	color: black;
+	font-family: monospace;
+	font-size: 30;
+	text-align: center;
+}
+h2	{
+	color: #9F3C3E;
+	font-family: verdana;
+	font-size: 20;
+	text-align: center;
+}
+h3	{
+	color: lime;
+	font-family: sans-serif;
+	text-align: center;
+}
+h4	{
+	color:38839F;
+	font-family: sans-serif;
+	text-align: center;
+}
+h6	{
+	text-align: center;
+}
+.Results{
+	font-family: Helvetica;
+	text-align: center;
+	color: green;
+}
+form	{
+	text-align: center;
+}
+button	{
+	background-color: green;
+	color: black;
+	font-size: 15;
+	font-family: verdana;
+	padding: 5px 10px;
+	border-radius:10px;
+}
